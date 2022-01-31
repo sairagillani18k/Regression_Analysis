@@ -6,14 +6,14 @@ Data:
 ### Pick out top 250 movies based on IMDB ratings:
 - Rank
 
-  - Sub 1-Title of the Movie
-  - Sub 2-Year of release
-  - Sub 3-IMDB Rating
+  - 1-Title of the Movie
+  - 2-Year of release
+  - 3-IMDB Rating
    
 
 
 ### Used following Libraries:
 
-  1-Beautiful Soup Library
-  2-Requests Library
-  3-HTML tag structure and parameters (class, id, etc.) of a HTML tag.
+  - 1-Beautiful Soup Library
+  - 2-Requests Library
+  - 3-HTML tag structure and parameters (class, id, etc.) of a HTML tag.
