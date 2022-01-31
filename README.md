@@ -2,7 +2,6 @@
 
 You can extract list of 250 top movies from IMDB website
 
-Data:
 ### Pick out top 250 movies based on IMDB ratings:
 
 
